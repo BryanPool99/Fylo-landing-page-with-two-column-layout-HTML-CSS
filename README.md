@@ -1,4 +1,5 @@
-The page is https://effortless-wisp-4d3042.netlify.app/
+# Preview Site
+https://effortless-wisp-4d3042.netlify.app/
 # Frontend Mentor - Fylo landing page with two column layout
 
 ![Design preview for the Fylo landing page with two column layout challenge](./design/desktop-preview.jpg)
